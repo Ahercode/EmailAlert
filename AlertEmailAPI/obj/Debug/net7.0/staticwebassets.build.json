@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2SeJLPr/Gtte8eCbBERTegzs16ZIA7qVPcZ5nO+iNDg=",
+  "Source": "AlertEmailAPI",
+  "BasePath": "_content/AlertEmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
